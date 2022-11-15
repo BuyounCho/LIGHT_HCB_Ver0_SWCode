@@ -2,7 +2,7 @@
 //distributed by Sungwoo Kim
 //       2020/12/28
 //revised by Buyoun Cho
-//       2021/04/20
+//       2022/11/15
 
 // 유의사항
 // 소수 적을때 뒤에 f 꼭 붙이기
